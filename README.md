@@ -25,7 +25,7 @@ This project is a real-time location tracker that uses Node.js, Express.js, Sock
 
 ### Clone the repository:
 
-git clone https://github.com/yourusername/real-time-tracker.git
+git clone https://github.com/Arpit65-sys/real-time-tracker.git
 
 ### Navigate to the project directory:
 
@@ -39,3 +39,9 @@ npm install
 
 npm start
 The server will start and listen on http://localhost:4000.
+
+### Usage
+
+Open your web browser and navigate to http://localhost:4000.
+The application will display an interactive map.
+The map will update with real-time locations of devices that are sending location data.
